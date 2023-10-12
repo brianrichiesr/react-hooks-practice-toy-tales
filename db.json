@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 8
+      "likes": 14
     },
     {
       "id": 2,
@@ -27,7 +27,7 @@
     {
       "id": 5,
       "name": "Rex",
-      "image": "https://static.wikia.nocookie.net/pixar/images/a/a8/Rex_%28Toy_Story%29.png/revision/latest/scale-to-width-down/377?cb=20210221010941",
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi5.walmartimages.com%2Fasr%2Fb90f6f5a-663c-4263-8770-38adad495a23_1.e45d8d4f32cdf949eaa0bf57753f0b27.jpeg&f=1&nofb=1&ipt=dcf813e5cc409e2358bfeb8e99f1bc86a0a7f6bd39d00c958a78d63a1e170e2d&ipo=images",
       "likes": 1
     },
     {
@@ -47,6 +47,12 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "Jessie",
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi5.walmartimages.com%2Fasr%2F5d010275-44a3-4f5e-a7be-055d8b497cb0.2147d84c0078401da0830a2ef06d9e83.jpeg&f=1&nofb=1&ipt=1cd43d99b4b1cfbec763c3a01559e6286227cff15781e93c06d32fb9ec26993f&ipo=images",
+      "likes": 5,
+      "id": 9
     }
   ]
 }
